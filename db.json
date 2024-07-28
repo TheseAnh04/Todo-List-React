@@ -1,0 +1,40 @@
+{
+  "todos": [
+    {
+      "text": "Complete project documentation",
+      "tag": "Work",
+      "priority": "high",
+      "dueDate": "2024-08-10",
+      "id": 1
+    },
+    {
+      "text": "Update website design",
+      "tag": "Personal",
+      "priority": "medium",
+      "dueDate": "2024-07-28",
+      "id": 2
+    },
+    {
+      "text": "Buy groceries",
+      "tag": "Errands",
+      "priority": "low",
+      "dueDate": "2024-07-30",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "text": "Schedule team meeting",
+      "completed": false,
+      "dueDate": "2024-08-01",
+      "priority": "high",
+      "tag": "Work"
+    },
+    {
+      "text": "Do personal projects",
+      "tag": "work",
+      "priority": "medium",
+      "dueDate": "2024-07-29",
+      "id": 6
+    }
+  ]
+}
